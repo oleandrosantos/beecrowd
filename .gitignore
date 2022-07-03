@@ -453,8 +453,8 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 
-_iniciante/*.exe
-2_ad-hoc/*.exe
+1_iniciante/*.exe
+2_ad_hoc/*.exe
 3_strings/*.exe
 4_estruturas_e_bibliotecas/*.exe
 5_matematica/*.exe
