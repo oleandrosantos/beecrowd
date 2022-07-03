@@ -6,16 +6,16 @@ namespace beecrowd.ad_hoc
   {
     public static void Main(string[] args)
     {
-      int qtdV = Int32.Parse(Console.ReadLine());
+      int qtdEntradas = Int32.Parse(Console.ReadLine());
       int anterior = 0;
       int contador = 0;
-      for (int x = 0; x < qtdV; x++)
+      for (int indice = 0; indice < qtdEntradas; indice++)
       {
-        int v = Int32.Parse(Console.ReadLine());
-        if (v != anterior)
+        int codigo = Int32.Parse(Console.ReadLine());
+        if (codigo != anterior)
         {
           contador++;
-          anterior = v;
+          anterior = codigo;
         }
       }
       Console.WriteLine(contador);
