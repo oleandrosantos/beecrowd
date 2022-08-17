@@ -462,3 +462,10 @@ $RECYCLE.BIN/
 7_grafos/*.exe
 8_geometria/*.exe
 6_paradigmas/*.exe
+obj/beecrowd.csproj.nuget.dgspec.json
+obj/beecrowd.csproj.nuget.dgspec.json
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Debug/net6.0/beecrowd.assets.cache
+obj/Debug/net6.0/beecrowd.csproj.AssemblyReference.cache
+obj/Debug/net6.0/beecrowd.GeneratedMSBuildEditorConfig.editorconfig
